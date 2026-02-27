@@ -1,0 +1,27 @@
+{
+  "name": "subtract-the-number-one",
+  "version": "1.0.0",
+  "description": "Subtracts one from your number",
+  "keywords": [
+    "One"
+  ],
+  "homepage": "https://github.com/10xly/subtract-the-number-one#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/subtract-the-number-one/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/subtract-the-number-one.git"
+  },
+  "license": "MIT",
+  "author": "10x'ly",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@10xly/global": "^1.1.1",
+    "minus-one": "^1.0.2"
+  }
+}
