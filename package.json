@@ -1,6 +1,6 @@
 {
   "name": "subtract-the-number-one",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Subtracts one from your number",
   "keywords": [
     "One"
@@ -21,7 +21,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@10xly/global": "^1.1.1",
-    "minus-one": "^1.0.2"
+    "subtract": "^0.0.3",
+    "the-number-one": "^1.0.1"
   }
 }
