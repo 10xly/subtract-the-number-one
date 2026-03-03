@@ -23,5 +23,9 @@
   "dependencies": {
     "subtract": "^0.0.3",
     "the-number-one": "^1.0.1"
+  },
+  "devDependencies": {
+    "@10xly/eslint-config": "*",
+    "eslint": "latest"
   }
 }
